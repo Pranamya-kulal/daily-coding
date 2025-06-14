@@ -1,2 +1,5 @@
-# daily-coding
-Daily notes and solutions to LeetCode problems
+## 📘 LeetCode Practice Dashboard
+
+<!--START_TABLE-->
+<!-- Table will be automatically inserted here -->
+<!--END_TABLE-->
